@@ -1,7 +1,7 @@
 <channels>
 <channel>
 <name>You</name>
-<externallink>https://raw.githubusercontent.com/luckdark/l/master/y0.txt</externallink>
+<link>https://raw.githubusercontent.com/luckdark/l/master/y0.txt</link>
 <info>Título Original: You
 País De Origem: USA
 Gênero: Drama, Suspense
