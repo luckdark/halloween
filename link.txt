@@ -1,0 +1,110 @@
+<channels>
+<channel>
+<item>
+<title>[COLOR black] 2ª Temporada [/COLOR]</title>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjM0MDA2NDEzNF5BMl5BanBnXkFtZTgwODYzNjg4NTM@._V1_SX300.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMjM0MDA2NDEzNF5BMl5BanBnXkFtZTgwODYzNjg4NTM@._V1_SX300.jpg</fanart>
+<info></info>
+</item>
+</channel>
+
+<channel>
+<item>
+<title>[COLOR black] Um Novo Começo [/COLOR]</title>
+<link>https://srv999.hollywood.to/5k7x3vda2uvfjuw5lwjyzvklzmnbpzdvnhvfmb6m4kjsnrkqjrrgt6ilsh7a/c038308f5b3f05e69ffaf0f55234b5a7.mp4</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjM0MDA2NDEzNF5BMl5BanBnXkFtZTgwODYzNjg4NTM@._V1_SX300.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMjM0MDA2NDEzNF5BMl5BanBnXkFtZTgwODYzNjg4NTM@._V1_SX300.jpg</fanart>
+<info></info>
+</item>
+</channel>
+
+<channel>
+<item>
+<title>[COLOR black] Apenas A Dica [/COLOR]</title>
+<link></link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjM0MDA2NDEzNF5BMl5BanBnXkFtZTgwODYzNjg4NTM@._V1_SX300.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMjM0MDA2NDEzNF5BMl5BanBnXkFtZTgwODYzNjg4NTM@._V1_SX300.jpg</fanart>
+<info></info>
+</item>
+</channel>
+
+<channel>
+<item>
+<title>[COLOR black] Para Que Servem Os Amigos? [/COLOR]</title>
+<link></link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjM0MDA2NDEzNF5BMl5BanBnXkFtZTgwODYzNjg4NTM@._V1_SX300.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMjM0MDA2NDEzNF5BMl5BanBnXkFtZTgwODYzNjg4NTM@._V1_SX300.jpg</fanart>
+<info></info>
+</item>
+</channel>
+
+<channel>
+<item>
+<title>[COLOR black] O Bom, O Mau E O Hendy [/COLOR]</title>
+<link></link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjM0MDA2NDEzNF5BMl5BanBnXkFtZTgwODYzNjg4NTM@._V1_SX300.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMjM0MDA2NDEzNF5BMl5BanBnXkFtZTgwODYzNjg4NTM@._V1_SX300.jpg</fanart>
+<info></info>
+</item>
+</channel>
+
+<channel>
+<item>
+<title>[COLOR black] Tenha Um Bom Wellkend, Joe! [/COLOR]</title>
+<link></link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjM0MDA2NDEzNF5BMl5BanBnXkFtZTgwODYzNjg4NTM@._V1_SX300.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMjM0MDA2NDEzNF5BMl5BanBnXkFtZTgwODYzNjg4NTM@._V1_SX300.jpg</fanart>
+<info></info>
+</item>
+</channel>
+
+<channel>
+<item>
+<title>[COLOR black] Adeus, Meu Coelho [/COLOR]</title>
+<link></link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjM0MDA2NDEzNF5BMl5BanBnXkFtZTgwODYzNjg4NTM@._V1_SX300.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMjM0MDA2NDEzNF5BMl5BanBnXkFtZTgwODYzNjg4NTM@._V1_SX300.jpg</fanart>
+<info></info>
+</item>
+</channel>
+
+<channel>
+<item>
+<title>[COLOR black] Ex-Istential Crisis [/COLOR]</title>
+<link></link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjM0MDA2NDEzNF5BMl5BanBnXkFtZTgwODYzNjg4NTM@._V1_SX300.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMjM0MDA2NDEzNF5BMl5BanBnXkFtZTgwODYzNjg4NTM@._V1_SX300.jpg</fanart>
+<info></info>
+</item>
+</channel>
+
+<channel>
+<item>
+<title>[COLOR black] Medo E Ódio Em Beverly Hills [/COLOR]</title>
+<link></link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjM0MDA2NDEzNF5BMl5BanBnXkFtZTgwODYzNjg4NTM@._V1_SX300.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMjM0MDA2NDEzNF5BMl5BanBnXkFtZTgwODYzNjg4NTM@._V1_SX300.jpg</fanart>
+<info></info>
+</item>
+</channel>
+
+<channel>
+<item>
+<title>[COLOR black] PI Joe [/COLOR]</title>
+<link></link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjM0MDA2NDEzNF5BMl5BanBnXkFtZTgwODYzNjg4NTM@._V1_SX300.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMjM0MDA2NDEzNF5BMl5BanBnXkFtZTgwODYzNjg4NTM@._V1_SX300.jpg</fanart>
+<info></info>
+</item>
+</channel>
+
+<channel>
+<item>
+<title>[COLOR black] Com Amor, Na Verdade [/COLOR]</title>
+<link></link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjM0MDA2NDEzNF5BMl5BanBnXkFtZTgwODYzNjg4NTM@._V1_SX300.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMjM0MDA2NDEzNF5BMl5BanBnXkFtZTgwODYzNjg4NTM@._V1_SX300.jpg</fanart>
+<info></info>
+</item>
+</channel>
+</channels>
