@@ -5,7 +5,7 @@
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]LA CASA DE SÉRIES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://i.ibb.co/D7SKk1n/Icone.png</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/luckdark/l/master/You.txt</externallink>
 <externallink2></externallink2>
 <externallink3></externallink3>
 <externallink4></externallink4>
