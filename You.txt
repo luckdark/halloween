@@ -1,0 +1,13 @@
+<channels>
+<channel>
+<name>You</name>
+<externallink></externallink>
+<info>Título Original: You
+País De Origem: USA
+Gênero: Drama, Suspense
+Duração: 60 Min
+Ano De Lançamento: 2018–
+Postado Por: Johnny</info>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjM0MDA2NDEzNF5BMl5BanBnXkFtZTgwODYzNjg4NTM@._V1_SX300.jpg</thumbnail>
+</channel>
+</channels>
